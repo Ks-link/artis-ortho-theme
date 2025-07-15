@@ -1,2 +1,1 @@
-# test
 # artis-ortho-theme
